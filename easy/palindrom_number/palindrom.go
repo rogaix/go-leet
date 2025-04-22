@@ -2,7 +2,6 @@ package palindrom_number
 
 // https://leetcode.com/problems/palindrome-number/
 
-// isPalindrom 1ms answer
 func isPalindrome(x int) bool {
 	if x == -1 {
 		return false
